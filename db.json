@@ -16,13 +16,13 @@
     "prod": [
   
     ],
-    "mock":[
+    "blogs":[
 
     ],
-    "signup":[
+    "leaderboard":[
 
     ],
     "login":[
-      
+
     ]
   }
