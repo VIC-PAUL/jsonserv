@@ -16,7 +16,13 @@
     "prod": [
   
     ],
-    "mock":[],
-    "signup":[],
-    "login":[]
+    "mock":[
+
+    ],
+    "signup":[
+
+    ],
+    "login":[
+      
+    ]
   }
